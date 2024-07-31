@@ -24,6 +24,7 @@ classifiers = [
 dependencies = [
     "customtkinter",
     "CTkMessagebox",
+    "python-dotenv"
 ]
 
 [project.optional-dependencies]

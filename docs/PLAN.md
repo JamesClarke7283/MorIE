@@ -21,3 +21,42 @@ $ tree . --gitignore
     ├── app.py
     ├── components
     └── core
+
+# Test walkthroughs
+
+1. Positive Scenario
+
+5 - 0 = 5
+n1 - B1 =C
+
+1 x 5 = 5
+Dg x C = Dg(F)
+
+4 - 1 = 3
+n2 - B2 =C2
+
+0.5 x 3 = 1.5
+Ig x C2 = Ig(F)
+
+
+1 x -0.5 = -0.5
+B2 x IB = IB(F)
+
+
+-1 x 0 = 0
+Db x b1 = Db(F)
+
+5 + 1.5 = 6.5
+Dg(f) + Ig(f) = total good
+
+0 + -0.5 = -0.5
+Db(f) + Ib(f) = total bad
+
+total intent = I
+I= 1
+
+total intent + Total good + total bad = net outcome
+1 + 6.5 - 0.5 = 7
+
+
+
